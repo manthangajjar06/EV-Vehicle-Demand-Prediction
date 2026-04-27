@@ -36,7 +36,7 @@ The application ingests historical EV registration data published by Washington 
 
 ## Live Demo
 
-> 🚀 [Launch App on Streamlit Cloud](https://your-app-url.streamlit.app) ← replace after deployment
+> 🚀 [Launch App on Streamlit Cloud](https://ev-vehicle-demand-prediction-4aamvgmawmntjuf4eboavf.streamlit.app/)
 
 ---
 
